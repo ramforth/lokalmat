@@ -1,0 +1,2 @@
+# lokalmat
+Apputvikling i Trønderdata
